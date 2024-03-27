@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629818890696",
+    "project_id": "vshare-80324",
+    "storage_bucket": "vshare-80324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629818890696:android:ec5f6ef6651fa69a6008fd",
+        "android_client_info": {
+          "package_name": "com.example.vshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9OpktdEXqLWCwDUZ7LxGYwfK7wWyQYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
